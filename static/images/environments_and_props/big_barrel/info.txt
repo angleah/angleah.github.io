@@ -1,0 +1,2 @@
+Part of a series of barrels I created for the Unity Engine | 
+Modeled and rendered in 3dMax 2013 - 489 polys - Textured in Photoshop CS4 - 1024 texture
